@@ -1,5 +1,6 @@
-results/
 .Rhistory
 .RData
 .Rproj.user
 *.rds
+results/raw/
+results/sim_results.csv
